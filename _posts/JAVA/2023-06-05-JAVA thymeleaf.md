@@ -21,14 +21,14 @@ spring에서 thymeleaf를 사용하기 위해서는 Dependency에 thymeleaf를 �
 
 ## 2.1 Dependency
 
-### Gradle
+### 2.1.1 Gradle
 `build.gradle`
 ```
 
 implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'
 ```
 
-### Maven
+### 2.1.2 Maven
 `pom.xml`
 ```
 
@@ -44,7 +44,7 @@ implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'
 > 프로젝트 폴더(root) / src / main / resources / templates
   하위 폴더의 html도 사용가능
 
-### application.yml
+### 2.2.1 application.yml
 ```
 # Thymeleaf
 spring:
@@ -57,7 +57,7 @@ spring:
                                                   캐시 기능 없어서 변경이 바로 반영됨
 ```
 
-## html
+## 2.2.2 html 설정
 
 ```
 <html lang="en" xmlns:th="http://www.thymeleaf.org">
@@ -76,7 +76,7 @@ spring:
 
 ---
 
-## ${}
+## 3.1 ${ }
 ```html
 <div th:text="${data}"></div>
 <div th:utext="${data}"></div>  // 값에 html 태그가 있으면 태그를 인식 
@@ -89,7 +89,7 @@ th:utext -> Hello! &nbsp;&nbsp;&nbsp; #h2 태그 적용됨
 
 ---
 
-## @{}
+## 3.2 @{ }
 ```html
 <a th:hrf="@{이동할 url}"></a>
 ```
@@ -97,7 +97,7 @@ th:utext -> Hello! &nbsp;&nbsp;&nbsp; #h2 태그 적용됨
 
 ---
 
-## th:value
+## 3.3 th:value
 ```html
 <input type="text" id="userId" th:value="${userId}"/>
 ```
@@ -105,7 +105,7 @@ input, button 태그 등에 value를 넣을 때 사용
 
 ---
 
-## Form 태그 (th:action, th:object, th:field)
+## 3.4 Form 태그 (th:action, th:object, th:field)
 ```html
 <form th:action="@{/login}" th:object="${loginForm}" method="post">
     <input type="text" id="userId" th:field="*{userId}" >
@@ -125,7 +125,7 @@ input, button 태그 등에 value를 넣을 때 사용
 
 ---
 
-## th:with
+## 3.5 th:with
 ```html
 <div th:with="var=${val}" th:text="${var}">
 ```
@@ -133,7 +133,7 @@ input, button 태그 등에 value를 넣을 때 사용
 
 ---
 
-## th:switch
+## 3.6 th:switch
 ```html
 <div th:switch="${val}">
     <p th:case="abc">
@@ -145,7 +145,7 @@ Swith-case문을 사용
 
 ---
 
-## th:if 
+## 3.7 th:if 
 ```html
 <th:block th:if="${val >= 2}">
   <span>123456</span>  // if 조건이 True 일 경우
@@ -157,7 +157,7 @@ Swith-case문을 사용
 
 ---
 
-## th:each
+## 3.8 th:each
 ```html
 <tr th:each="val : ${valList}">
 		<td th:text="${val.seq}"></td>
@@ -166,7 +166,7 @@ Swith-case문을 사용
 ```
 valList의 값을 다 꺼낼 때까지 <tr> 태그 반복
 
-### #numbers.sequence()
+### 3.8.1 #numbers.sequence()
 ```html
 <th:block th:each="num : ${#numbers.sequence(1,5)}">
 	<div th:text="${num}"></div>
@@ -174,7 +174,7 @@ valList의 값을 다 꺼낼 때까지 <tr> 태그 반복
 ```
 1~5 까지 반복
 
-### status 변수
+### 3.8.2 status 변수
 
 th:each 사용하면 상태를 추적할 수 있는 status 변수를 제공해줌
 ```html
@@ -195,4 +195,4 @@ last    :	현재 반복이 마지막인지(boolean)
 ---
 
 참고
-![themeleaf 공식 document](https://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html#using-texts/)
+[themeleaf 공식 document](https://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html#using-texts/)
