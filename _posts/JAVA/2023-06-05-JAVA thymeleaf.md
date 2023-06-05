@@ -24,14 +24,12 @@ spring에서 thymeleaf를 사용하기 위해서는 Dependency에 thymeleaf를 �
 ### 2.1.1 Gradle
 `build.gradle`
 ```
-
 implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'
 ```
 
 ### 2.1.2 Maven
 `pom.xml`
 ```
-
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-thymeleaf</artifactId>
