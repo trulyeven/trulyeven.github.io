@@ -85,7 +85,7 @@ spring:
 컨트롤러에서 전달받은 데이터 접근  
 전달받은 값이 <h2>Hello!</h2> 라면  
 th:text  -> <h2>Hello!</h2>  
-th:utext -> Hello!     #h2 태그 적용됨
+th:utext -> Hello! &nbsp;&nbsp;&nbsp; #h2 태그 적용됨
 
 ---
 
