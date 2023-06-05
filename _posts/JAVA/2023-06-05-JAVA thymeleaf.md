@@ -182,10 +182,10 @@ index   : 현재 인덱스(0부터)
 count   : 현재 반복 수(1부터)	
 size  	: 총 반복 횟수
 current :	현재 요소
-even    :	현재 반복이 짝수인지(boolean) 
-odd     :	현재 반복이 홀수인지(boolean)
-first   :	현재 반복이 첫번째인지(boolean) 
-last    :	현재 반복이 마지막인지(boolean)
+even    : 현재 반복이 짝수인지(boolean) 
+odd     : 현재 반복이 홀수인지(boolean)
+first   : 현재 반복이 첫번째인지(boolean) 
+last    : 현재 반복이 마지막인지(boolean)
  -->
 ```
 
