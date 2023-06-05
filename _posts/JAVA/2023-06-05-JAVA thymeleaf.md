@@ -89,9 +89,9 @@ th:utext -> Hello! &nbsp;&nbsp;&nbsp; #h2 태그 적용됨
 
 ## 3.2 @{ }
 ```html
-<a th:hrf="@{이동할 url}"></a>
+<a th:href="@{이동할 url}"></a>
 ```
-<a> 태그 href와 동일
+`<a>` 태그 href와 동일
 
 ---
 
