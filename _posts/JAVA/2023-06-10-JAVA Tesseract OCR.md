@@ -2,7 +2,7 @@
 title : "[JAVA] Tesseract OCR spring 세팅"
 date : 2023-06-10 00:00:00 +0900 # +/-TTTT
 categories : [JAVA, spring]
-tags : [java, spring, tesseract, OCR] #소문자만 가능
+tags : [java, spring, tesseract, OCR, 한글] #소문자만 가능
 ---
 
 # 1. 환경
@@ -20,7 +20,7 @@ OCR(Optical Character Recognition)
 : 광학 문자 인식을 일컫는다.
   사람이 쓰거나 기계로 인쇄한 문자의 영상을 이미지 스캐너로 획득하여 기계가 읽을 수 있는 문자로 변환하는 기술
 
-## Tesseract 설치
+## 2.1. Tesseract 설치
 
 [Tesseract 다운로드 페이지](https://github.com/UB-Mannheim/tesseract/wiki)
 
@@ -35,7 +35,7 @@ _기본 설치 위치_
 
 아래 환경 변수 설정을 위해 설치 경로를 알아두어야 한다
 
-## 환경 변수 설정
+## 2.2. 환경 변수 설정
 
 TESSDATA_PREFIX 추가
 > C:\Program Files\Tesseract-OCR\tessdata\
@@ -44,7 +44,7 @@ path에 추가
 > C:\Program Files\Tesseract-OCR\
 
 
-# Spring Project 세팅
+# 3. Spring Project 세팅
 
 자바에서는 Tesseract를 사용하기 위해서는 추가 의존성이 필요하다
 바로 tess4j 이다
@@ -55,7 +55,7 @@ path에 추가
 // gradle - build.gradle
 implementation'net.sourceforge.tess4j:tess4j:5.7.0'
 
-// maven
+// maven - pom.xml
 <dependency>
     <groupId>net.sourceforge.tess4j</groupId>
     <artifactId>tess4j</artifactId>
@@ -64,14 +64,14 @@ implementation'net.sourceforge.tess4j:tess4j:5.7.0'
 ```
 
 
-# 간단한 예제
+# 4. 간단한 예제
 
-## sample 이미지
+## 4.1. sample 이미지
 ![example](https://github.com/trulyeven/trulyeven.github.io/assets/113951017/546b1aff-8833-48dd-b7d7-d3b47e83d73f)
 _example.com_
 
 
-## spring 코드
+## 4.2. spring 코드
 
 
 ```java
@@ -93,7 +93,7 @@ public class TransController {
 		File imageFile = new File("C:/Users/example.png");  // 이미지 파일 경로
 		ITesseract instance = new Tesseract();
         instance.setDatapath("C:/Program Files/Tesseract-OCR/tessdata"); // tessdata directory 경로
-
+        instance.setLanguage("kor+eng");  // 한글과 영어 인식 설정
         try {
             String result = instance.doOCR(imageFile);
             System.out.println(result);
@@ -106,7 +106,7 @@ public class TransController {
 }
 ```
 
-## 실행 결과
+## 4.3. 실행 결과
 ![image](https://github.com/trulyeven/trulyeven.github.io/assets/113951017/57a9a227-c99a-4315-8f19-ff5474f2e0d6)
 _d를 못생기게 써서 ol로 인식됨_
 
@@ -114,5 +114,5 @@ _d를 못생기게 써서 ol로 인식됨_
 
 참고
 
-[tesseract github 페이지](https://github.com/tesseract-ocr/tessdoc#tesseract-user-manual)
+[tesseract github 페이지](https://github.com/tesseract-ocr/tessdoc#tesseract-user-manual)  
 [tess4j.sourceforge.net](https://tess4j.sourceforge.net/)
