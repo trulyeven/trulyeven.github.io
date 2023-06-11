@@ -40,9 +40,9 @@ Jsoup
 
 그리고 버전에 맞는 웹 드라이버를 다운로드해서 적절한 폴더에 옮겨준다
 
-> edge가 최신 버젼이라 맞는 버전이 없는 경우 가장 가까운 버전을 다운 받아준다
-  그러면 경고가 뜨긴 하지만 실행 시 알아서 가까운 버전에 맞추어 실행된다
-  혹시나 오류가 나는 경우 브라우저의 버전을 다운그레이드 해주어야 한다
+> edge가 최신 버젼이라 맞는 버전이 없는 경우 가장 가까운 버전을 다운 받아준다<br>
+  그러면 경고가 뜨긴 하지만 실행 시 알아서 가까운 버전에 맞추어 실행된다<br>
+  혹시나 오류가 나는 경우 브라우저의 버전을 다운그레이드 해주어야 한다<br>
 {: .prompt-info }
 
 ---
@@ -70,12 +70,12 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.edge.EdgeChromeDriver;
 
 public void open() {
-		System.getProperty("webdriver.edge.driver", "C:\\worktool\\msedgedriver.exe");  // 웹드라이버 위치
-		WebDriver driver = new EdgeDriver();
-		driver.get("https://www.naver.com");  // 제어할 사이트 열기
-                                              
-        driver.quit();  // 종료
-	}
+    System.getProperty("webdriver.edge.driver", "C:\\worktool\\msedgedriver.exe");  // 웹드라이버 위치
+    WebDriver driver = new EdgeDriver();
+    driver.get("https://www.naver.com");  // 제어할 사이트 열기
+                    
+    driver.quit();  // 종료
+}
 ```
 
 > `http://`, `https://`를 적지 않으면 'data:,' 주소를 가진 빈사이트가 열릴 수 있음
