@@ -28,8 +28,7 @@ Jsoup
 다른 브라우저의 경우 알맞는 브라우저 드라이버를 설치하면 된다
 
 먼저 자신의 브라우저의 버전을 확인한다
-![image](https://github.com/trulyeven/vocr/assets/113951017/7f0e9d6d-9509-43af-ac05-386b07dbe2f3)
-{w:300}
+![image](https://github.com/trulyeven/vocr/assets/113951017/7f0e9d6d-9509-43af-ac05-386b07dbe2f3){: width="400"}
 
 
 [Edge driver 다운로드 사이트](https://developer.microsoft.com/ko-kr/microsoft-edge/tools/webdriver/)
