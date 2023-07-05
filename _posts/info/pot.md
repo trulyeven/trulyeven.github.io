@@ -7,6 +7,13 @@ permalink: /pot/
 
 # **a**
 ---
+DEVELOPER
+PORTPOLIO
+
+
+정윤균(Jung YunGyun)
+
+Trulyeven@gmail.com
 
 
 
