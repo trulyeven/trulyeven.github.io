@@ -2,7 +2,7 @@
 title : "portfolio"
 categories : []
 tags : [] #소문자만 가능
-permalink: /portfolio/
+permalink: /posts/portfolio/
 ---
 
 # **a**

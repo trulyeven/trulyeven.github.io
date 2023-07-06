@@ -5,7 +5,7 @@ order: 4
 ---
 
 [포트폴리오](https://trulyeven.github.io/posts/portfolio/)
-[포트폴리오](https://trulyeven.github.io/ports/port)
+[포트폴리오](https://trulyeven.github.io/posts/port)
 
 
 > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
