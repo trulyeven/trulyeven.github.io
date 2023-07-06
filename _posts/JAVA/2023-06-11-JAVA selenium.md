@@ -1,5 +1,5 @@
 ---
-title : "[JAVA] Tesseract OCR spring 세팅"
+title : "[JAVA] selenium 세팅"
 date : 2023-06-11 00:00:00 +0900 # +/-TTTT
 categories : [JAVA, spring]
 tags : [java, spring, selenium] #소문자만 가능
