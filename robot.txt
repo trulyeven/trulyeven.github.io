@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://trulyeven.github.io/sitemap.xml
