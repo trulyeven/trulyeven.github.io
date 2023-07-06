@@ -1,8 +1,8 @@
 ---
-title : "포트폴리오"
+title : "portfolio"
 categories : []
 tags : [] #소문자만 가능
-permalink: /pot/
+permalink: /info/portfolio/
 ---
 
 # **a**
