@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-[포트폴리오](/portfolio/)
+[포트폴리오](portfolio/)
 
 
 > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
