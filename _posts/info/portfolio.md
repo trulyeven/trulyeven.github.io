@@ -1,8 +1,9 @@
 ---
-title : "portfolio"
-categories : []
-tags : [] #소문자만 가능
-permalink: /posts/:portfolio/
+title : "포트폴리오"
+date : 2023-06-01 00:00:00 +0900 # +/-TTTT
+categories : [info]
+tags : [info] #소문자만 가능
+permalink: /portfolio/
 ---
 
 # **a**
