@@ -1,6 +1,5 @@
 ---
 title : "포트폴리오"
-date : 2023-07-01 00:00:00 +0900 # +/-TTTT
 permalink: /portfolio/
 ---
 
