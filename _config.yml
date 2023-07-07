@@ -93,7 +93,6 @@ comments:
     label:        💬
     theme:        preferred-color-scheme
     crossorigin:  anonymous
-    async:        async
   # Giscus options › https://giscus.app
   giscus:
     repo: # <gh-username>/<repo>
