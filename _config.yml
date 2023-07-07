@@ -164,6 +164,15 @@ defaults:
       path: assets/js/dist
     values:
       swcache: true
+  - scope:  # 글목록에 노출되지 않는 포스트
+        path: ""
+        type: postshidden
+      values:
+        layout: post
+        comments: true
+        toc: true
+        permalink: /hidden/:title/
+
 
 sass:
   style: compressed
