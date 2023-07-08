@@ -2,9 +2,6 @@
   The common styles
 */
 
-// font 폰트 추가 - 동글
-@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300;400;700&display=swap');
-
 html {
   @media (prefers-color-scheme: light) {
     &:not([data-mode]),
@@ -37,7 +34,7 @@ body {
     env(safe-area-inset-bottom) env(safe-area-inset-left);
   color: var(--text-color);
   -webkit-font-smoothing: antialiased;
-  font-family: 'Dongle', 'D2Coding', sans-serif;  // $font-family-base;
+  font-family: $font-family-base;
 }
 
 /* --- Typography --- */
