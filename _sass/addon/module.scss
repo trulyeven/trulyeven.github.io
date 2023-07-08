@@ -132,7 +132,6 @@
 @mixin ml-mr($value) {
   margin-left: $value;
   margin-right: $value;
-  background-color: aquamarine;
 }
 
 @mixin pt-pb($val) {
@@ -142,6 +141,7 @@
 }
 
 @mixin pl-pr($val) {
+  background: aquamarine;
   padding-left: $val;
   padding-right: $val;
 }
