@@ -45,6 +45,9 @@ bash tools/init.sh
 
 ### 삭제 및 수정
 
+> 수정 2023-07-09 현재 chirpy theme 최신버전을 사용할 경우 이 과정을 생략해도 된다.
+{: .prompt-warning }
+
 - 삭제 할 폴더 및 파일
   + `.travis.yml`
   + `_posts` 하위 파일
