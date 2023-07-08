@@ -125,6 +125,7 @@
 /* ---------- scss mixin --------- */
 
 @mixin mt-mb($value) {
+  background: aquamarine;
   margin-top: $value;
   margin-bottom: $value;
 }
@@ -141,7 +142,6 @@
 }
 
 @mixin pl-pr($val) {
-  background: aquamarine;
   padding-left: $val;
   padding-right: $val;
 }

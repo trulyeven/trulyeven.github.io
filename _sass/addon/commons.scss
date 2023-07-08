@@ -28,7 +28,7 @@ html {
     }
   }
 
-  font-size: 16px;
+  font-size: 24px;  // default 16
 }
 
 body {
@@ -38,7 +38,6 @@ body {
   color: var(--text-color);
   -webkit-font-smoothing: antialiased;
   font-family: 'Dongle', 'D2Coding', sans-serif;  // $font-family-base;
-  font-size: 22px;
 }
 
 /* --- Typography --- */
