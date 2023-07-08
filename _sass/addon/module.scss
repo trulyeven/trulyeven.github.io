@@ -135,12 +135,12 @@
 }
 
 @mixin pt-pb($val) {
+  background: lightgreen;
   padding-top: $val;
   padding-bottom: $val;
 }
 
 @mixin pl-pr($val) {
-  background: lightgreen;
   padding-left: $val;
   padding-right: $val;
 }
