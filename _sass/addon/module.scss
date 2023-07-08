@@ -130,13 +130,11 @@
 }
 
 @mixin ml-mr($value) {
-  background: aquamarine;
   margin-left: $value;
   margin-right: $value;
 }
 
 @mixin pt-pb($val) {
-  // background: lightgreen;
   padding-top: $val;
   padding-bottom: $val;
 }

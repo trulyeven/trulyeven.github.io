@@ -2,6 +2,10 @@
  * The SCSS variables
  */
 
+// font 폰트 추가 - 동글
+@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300;400;700&display=swap');
+
+
 /* sidebar */
 
 $sidebar-width: 260px !default; /* the basic width */
@@ -24,4 +28,4 @@ $code-font-size: 0.85rem !default;
 /* fonts */
 
 $font-family-base: 'Source Sans Pro', 'Microsoft Yahei', sans-serif;
-$font-family-heading: Lato, 'Microsoft Yahei', sans-serif;
+$font-family-heading: 'Dongle', Lato, 'Microsoft Yahei', sans-serif;
