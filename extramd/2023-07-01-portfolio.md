@@ -19,13 +19,13 @@ permalink: /portfolio/
         font-family: "Dongle";
     }
     div.header{
-        font-size: 300px;
+        font-size: 150px;
         font-family: "D2coding";
     }
     div.my{
-        font-size: 100px;
+        font-size: 50px;
         text-align: right;
-        margin-right: 200px;
+        margin-right: 150px;
     }
     body {
         margin-left: 75px;
