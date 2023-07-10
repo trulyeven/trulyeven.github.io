@@ -48,30 +48,6 @@ Trulyeven@gmail.com
 # **3. skills**
 ---
 
-<img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-darkgreen?style=flat&logo=Django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Springboot-green?style=flat&logo=Springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ｊ Java-blue?style=flat&logo=java&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/HTML-red?style=flat&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-blue?style=flat&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-purple?style=flat&logo=Bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/jQuery-blue?style=flat&logo=jquery&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/R-grey?style=flat&logo=r&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Mysql-blue?style=flat&logo=Mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-red?style=flat&logo=oracle&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-orange?style=flat&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/github-black?style=flat&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/VS Code-blue?style=flat&logo=visual studio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter Notebook-orange?style=flat&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/eclipse-purple?style=flat&logo=eclipse&logoColor=white"/>
-<img src="https://img.shields.io/badge/R studio-white?style=flat&logo=Rstudio&logoColor=#75AADB"/>
-
 
 # **4. project**
 ---
