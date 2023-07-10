@@ -1,7 +1,6 @@
 ---
 title : "포트폴리오"
 published: true
-toc: true
 permalink: /portfolio/
 ---
 
