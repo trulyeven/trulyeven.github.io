@@ -14,10 +14,16 @@ permalink: /portfolio/
     referrerpolicy="no-referrer"
     />
     <style>
-    header{
-        font-size: 40px;
+    @import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300;400;700&display=swap');
+    * {
+        font-family: "Dongle";
     }
-    div{
+    div.header{
+        font-size: 300px;
+        font-family: "D2coding";
+    }
+    div.my{
+        font-size: 100px;
         text-align: right;
         margin-right: 200px;
     }
@@ -32,11 +38,13 @@ permalink: /portfolio/
 
 
 
-<h1 class="header">DEVELOPER  PORTPOLIO</h1>
+<div class="header">DEVELOPER  PORTPOLIO</div>
 
 <div class="my">
-정윤균(Jung YunGyun)  
-Trulyeven@gmail.com  
+정윤균(Jung YunGyun)
+
+Trulyeven@gmail.com
+
 [trulyeven (github.com)](https://github.com/trulyeven/)
 </div>
 
