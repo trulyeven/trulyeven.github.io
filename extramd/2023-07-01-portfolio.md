@@ -38,7 +38,7 @@ Trulyeven@gmail.com
 <br><br><br>
 
 # **2. career**
-![image](https://github.com/trulyeven/trulyeven.github.io/assets/113951017/838ad40e-c9eb-44bc-a16b-5a54c9689efc)
+![image](https://github.com/trulyeven/trulyeven.github.io/assets/113951017/838ad40e-c9eb-44bc-a16b-5a54c9689efc){: width="700" height="auto" }
 ---
 
 
@@ -47,7 +47,7 @@ Trulyeven@gmail.com
 
 # **3. skills**
 ---
-
+![python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white)
 
 # **4. project**
 ---
