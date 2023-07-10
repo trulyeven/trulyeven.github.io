@@ -1,6 +1,7 @@
 ---
 title : "포트폴리오"
 published: true
+toc: true
 permalink: /portfolio/
 ---
 
@@ -14,46 +15,72 @@ permalink: /portfolio/
     referrerpolicy="no-referrer"
     />
     <style>
-    .markdown-body {
-        box-sizing: border-box;
-        min-width: 200px;
-        max-width: 980px;
-        margin: 0 auto;
-        padding: 45px;
-    }
-    @media (max-width: 767px) {
-        .markdown-body {
-            padding: 15px;
-        }
+    body {
+        margin-left: 50px;
+        background-color: grey;
     }
     </style>
 </head>
 
-1. 글 작성 시 깃  
-# **a**
 
 ---
-DEVELOPER
+DEVELOPER  
 PORTPOLIO
 
-    test = test;
-
-정윤균(Jung YunGyun)
-
+정윤균(Jung YunGyun)  
 Trulyeven@gmail.com
+[trulyeven (github.com)]()
+
+# **1. profile**
+
 
 
 
 <br><br><br>
 
-# **b**
+# **2. career**
+![image](https://github.com/trulyeven/trulyeven.github.io/assets/113951017/838ad40e-c9eb-44bc-a16b-5a54c9689efc)
 ---
 
 
 
 <br><br><br>
 
-# **c**
+# **3. skills**
 ---
 
+<img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-darkgreen?style=flat&logo=Django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Springboot-green?style=flat&logo=Springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ｊ Java-blue?style=flat&logo=java&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/HTML-red?style=flat&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-blue?style=flat&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-purple?style=flat&logo=Bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/jQuery-blue?style=flat&logo=jquery&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/R-grey?style=flat&logo=r&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Mysql-blue?style=flat&logo=Mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-red?style=flat&logo=oracle&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-orange?style=flat&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-black?style=flat&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/VS Code-blue?style=flat&logo=visual studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter Notebook-orange?style=flat&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/eclipse-purple?style=flat&logo=eclipse&logoColor=white"/>
+<img src="https://img.shields.io/badge/R studio-white?style=flat&logo=Rstudio&logoColor=#75AADB"/>
+
+
+# **4. project**
+---
+
+## *CHURY*
+---
+
+
+## *WOCR*
+---
 
