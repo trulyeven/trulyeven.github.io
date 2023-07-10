@@ -17,9 +17,10 @@ permalink: /portfolio/
     @import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300;400;700&display=swap');
     * {
         font-family: "Dongle";
+        font-size: 26px;
     }
     div.header{
-        font-size: 150px;
+        font-size: 100px;
         font-family: "D2coding";
     }
     div.my{
@@ -41,11 +42,11 @@ permalink: /portfolio/
 <div class="header">DEVELOPER  PORTPOLIO</div>
 
 <div class="my">
-정윤균(Jung YunGyun)
+정윤균(Jung YunGyun)<br>
+Trulyeven@gmail.com<br>
 
-Trulyeven@gmail.com
+[github/trulyeven](https://github.com/trulyeven/)
 
-[trulyeven (github.com)](https://github.com/trulyeven/)
 </div>
 
 - [**1. profile**](#1-profile)
