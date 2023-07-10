@@ -2,8 +2,9 @@
  * The SCSS variables
  */
 
-// font 폰트 추가 - 동글
+// font 폰트 추가 - 동글, 개구, 나눔스퀘어
 @import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300;400;700&family=Gaegu:wght@300;400;700&display=swap');
+@import url('https://cdn.rawgit.com/innks/NanumSquareRound/master/nanumsquareround.min.css');
 
 
 /* sidebar */
@@ -27,5 +28,5 @@ $code-font-size: 0.85rem !default;
 
 /* fonts */
 
-$font-family-base: 'Gaegu', 'Source Sans Pro', 'Microsoft Yahei', sans-serif;
-$font-family-heading: 'D2Coding', Lato, 'Microsoft Yahei', sans-serif;
+$font-family-base: 'NanumSquareRound', 'Source Sans Pro', 'Microsoft Yahei', sans-serif;
+$font-family-heading: 'Gaegu', Lato, 'Microsoft Yahei', sans-serif;
