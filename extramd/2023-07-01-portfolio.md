@@ -44,9 +44,7 @@ permalink: /portfolio/
 <div class="my">
 정윤균(Jung YunGyun)<br>
 Trulyeven@gmail.com<br>
-
-[github/trulyeven](https://github.com/trulyeven/)
-
+<a href="https://github.com/trulyeven/">github/trulyeven</a>
 </div>
 
 - [**1. profile**](#1-profile)
