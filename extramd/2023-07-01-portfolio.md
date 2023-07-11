@@ -37,14 +37,13 @@ permalink: /portfolio/
     }
     div.remote {
         position: relative;
-        align: right;
     }
     </style>
 </head>
 
 <div class="remote">
-    <a href="https://trulyeven.github.io/"><image src="https://github.com/trulyeven/trulyeven.github.io/assets/113951017/d78647ed-71d6-4c73-bf69-cc8f92464fec"></a>
-    <a href="https://trulyeven.github.io/"><image src="https://cdn.icon-icons.com/icons2/2596/PNG/512/to_top_icon_154709.png"></a>
+    <a href="https://trulyeven.github.io/"><img src="https://github.com/trulyeven/trulyeven.github.io/assets/113951017/d78647ed-71d6-4c73-bf69-cc8f92464fec"></a>
+    <a href="https://trulyeven.github.io/"><img src="https://cdn.icon-icons.com/icons2/2596/PNG/512/to_top_icon_154709.png"></a>
 </div>
 
 <div class="header">DEVELOPER  PORTPOLIO</div>
