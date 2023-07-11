@@ -53,12 +53,16 @@ Trulyeven@gmail.com<br>
 - [**3. skills**](#3-skills)
 - [**4. project**](#4-project)
   - [*CHURY*](#chury)
-    - [프로젝트 목적](#프로젝트-목적)
-    - [🕰️ 개발 기간](#️-개발-기간)
-    - [조원 역할](#조원-역할)
-    - [프로젝트 소개](#프로젝트-소개)
-    - [프로젝트 아쉬운 점](#프로젝트-아쉬운-점)
+    - [프로젝트 목적 - CHURY](#프로젝트-목적---chury)
+    - [🕰️ 개발 기간 - CHURY](#️-개발-기간---chury)
+    - [조원 역할 - CHURY](#조원-역할---chury)
+    - [프로젝트 소개 - CHURY](#프로젝트-소개---chury)
+    - [프로젝트 아쉬운 점 - CHURY](#프로젝트-아쉬운-점---chury)
   - [*WOCR*](#wocr)
+    - [프로젝트 목적 - WOCR](#프로젝트-목적---wocr)
+    - [🕰️ 개발 기간 - WOCR](#️-개발-기간---wocr)
+    - [프로젝트 소개 - WOCR](#프로젝트-소개---wocr)
+    - [프로젝트 아쉬운 점 - WOCR](#프로젝트-아쉬운-점---wocr)
 
 
 # **1. profile**
@@ -115,24 +119,24 @@ Trulyeven@gmail.com<br>
 
 ![image](https://github.com/trulyeven/trulyeven.github.io/assets/113951017/a8d06948-fccf-4909-b4a0-716dbee4edf1){: width="800" height="auto" }
 
-### 프로젝트 목적
+### 프로젝트 목적 - CHURY
 
 영상매체에 익숙해져 독서량이 감소해가는 현대인들에게 그들이 관심있는 영상 콘텐츠와 유사한 장르의 디지털 도서를
 추천해줌으로써 독서에 흥미를 느낄 수 있게 만들어 주자는 취지에서 개발하게 되었습니다.
 
-### 🕰️ 개발 기간
+### 🕰️ 개발 기간 - CHURY
 - 1차 : 2022.10.19 ~ 2022.11.10
 - 2차 : 2023.01.09 ~ 2023.01.19
 - 3차 : 2023.03.13 ~ 2023.03.16
 - 총 약 30일
 
 
-### 조원 역할
+### 조원 역할 - CHURY
 
 ![image](https://github.com/trulyeven/trulyeven.github.io/assets/113951017/156a356d-55fb-4dba-abdd-fa7b24d6ab36){: width="800" height="auto" }
 ![image](https://github.com/trulyeven/trulyeven.github.io/assets/113951017/10b78924-e00b-4dce-97e5-cde0a35175af){: width="800" height="auto" }
 
-### 프로젝트 소개
+### 프로젝트 소개 - CHURY
 
 > 로그인/회원가입
 
@@ -182,7 +186,7 @@ Trulyeven@gmail.com<br>
 
 <br>
 
-### 프로젝트 아쉬운 점
+### 프로젝트 아쉬운 점 - CHURY
 - 웹소설의 경우, 책 한권이 아닌 회차별로 업로드 되는 방식이라서 회차별로 평점과 조회수데이터가 쌓이게 되고,
 그에 따라서 회차 수에 따른 총 조회수 차이가 반영되지 않음
 - 실제 책 내용은 보여주지 못하더라도 임의로 제작한 책 뷰어를 보여주려 했으나 잘 되지 않아 사이트 이동으로 대체한 점
@@ -192,6 +196,25 @@ Trulyeven@gmail.com<br>
 ## *WOCR*
 
 ---
+
+
+
+### 프로젝트 목적 - WOCR
+
+요즘 사람들은 영상에서 많은 정보를 얻는다. 하지만 영상의 특성상 보여지는 정보가 필요한 반면 단순 글자만 나열해서 읽어주는 효율이 나쁜 정보 전달이 있다. 영상을 글로 변환하면 정보의 습득 속도가 더 빠르기 때문에 영상의 글을 모아주는 사이트를 만들고자 하였다.
+
+### 🕰️ 개발 기간 - WOCR
+- 2023.05.28 ~ 2023.07.01
+
+### 프로젝트 소개 - WOCR
+
+처음 화면
+
+![chrome-capture-2023-6-11](https://github.com/trulyeven/trulyeven.github.io/assets/113951017/cb65eb4c-125e-48fa-b284-cd10e3834b2c)
+
+<br>
+
+### 프로젝트 아쉬운 점 - WOCR
 
 
 <br><br>
