@@ -35,13 +35,19 @@ permalink: /portfolio/
         background-attachment: fixed;
         background-image: url("https://img.freepik.com/free-photo/paper-texture_23-2147786525.jpg?w=1800&t=st=1688975362~exp=1688975962~hmac=dd283b815f23a50981b53e398df6f2a122930a33647e6dd31b4c522b11ca258e");
     }
+    .remote {
+        position: relative;
+        align: right;
+    }
     </style>
 </head>
 
-
+<div class="remote">
+    <a href="https://trulyeven.github.io/"><image href="https://github.com/trulyeven/trulyeven.github.io/assets/113951017/d78647ed-71d6-4c73-bf69-cc8f92464fec"></a>
+    <a href="https://trulyeven.github.io/"><image href="https://cdn.icon-icons.com/icons2/2596/PNG/512/to_top_icon_154709.png"></a>
+</div>
 
 <div class="header">DEVELOPER  PORTPOLIO</div>
-
 <div class="my">
 정윤균(Jung YunGyun)<br>
 Trulyeven@gmail.com<br>
