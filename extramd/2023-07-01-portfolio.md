@@ -45,7 +45,7 @@ permalink: /portfolio/
 
 [![image](https://github.com/trulyeven/trulyeven.github.io/assets/113951017/e26262b8-6069-4c7d-8ed0-e6cfe94b7928)](https://trulyeven.github.io/)
 <a href="https://trulyeven.github.io/">
-![image](https://github.com/trulyeven/trulyeven.github.io/assets/113951017/7cc2e09c-5c79-4e23-877d-12261607e578)
+<img src="https://github.com/trulyeven/trulyeven.github.io/assets/113951017/7cc2e09c-5c79-4e23-877d-12261607e578" alt="top">
 </a>
 </div>
 
