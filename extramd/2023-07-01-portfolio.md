@@ -104,18 +104,15 @@ Trulyeven@gmail.com<br>
 ![Django](https://img.shields.io/badge/Django-darkgreen?style=flat&logo=Django&logoColor=white)
 ![Java](https://img.shields.io/badge/ＪJava-blue?style=flat&logo=java&logoColor=white)
 ![Springboot](https://img.shields.io/badge/Springboot-green?style=flat&logo=Springboot&logoColor=white)
-
 ![HTML](https://img.shields.io/badge/HTML-red?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=flat&logo=Bootstrap&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-blue?style=flat&logo=jquery&logoColor=black)
-
 ![R](https://img.shields.io/badge/R-grey?style=flat&logo=r&logoColor=black)
 
 ![Mysql](https://img.shields.io/badge/Mysql-blue?style=flat&logo=Mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-red?style=flat&logo=oracle&logoColor=white)
-
 ![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github-black?style=flat&logo=github&logoColor=white)
 
