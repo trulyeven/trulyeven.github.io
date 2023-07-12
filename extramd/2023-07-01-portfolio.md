@@ -36,7 +36,8 @@ permalink: /portfolio/
         background-image: url("https://img.freepik.com/free-photo/paper-texture_23-2147786525.jpg?w=1800&t=st=1688975362~exp=1688975962~hmac=dd283b815f23a50981b53e398df6f2a122930a33647e6dd31b4c522b11ca258e");
     }
     div.remote {
-        position: relative;
+        position: fixed;
+        right: 50px;
     }
     </style>
 </head>
