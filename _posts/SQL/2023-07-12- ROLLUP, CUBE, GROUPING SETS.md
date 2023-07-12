@@ -1,5 +1,6 @@
 ---
 title : "[SQL] ROLLUP, CUBE, GROUPING SETS"
+date : 2023-07-12 00:00:00 +0900 # +/-TTTT
 categories : [SQL]
 tags : [sql, sql query, rollup, cube, grouping sets, mySQL]
 ---
@@ -28,6 +29,7 @@ GROUP BY 학년, 반;
 
 
 # ROLLUP
+
 ```sql
 SELECT 학년, 반, AVG(점수) AS 점수
 FROM 점수
@@ -43,6 +45,7 @@ ROLLUP을 사용하면 학년의 평균, 총 평균이 추가된다
 
 
 # CUBE
+
 ```sql
 SELECT 학년, 반, AVG(점수) AS 점수
 FROM 점수
@@ -63,6 +66,9 @@ CUBE을 사용하면 학년의 평균, 총 평균 그리고 학년이 상관없�
 
 
 # GROUPING SETS
+
+## mysql
+
 ```sql
 SELECT 학년, 반, AVG(점수) AS 점수
 FROM 점수
@@ -77,8 +83,11 @@ HAVING 학년 IS NULL XOR 반 IS NULL;
 -- 다른 SQL : GROUP BY GROUPING SETS (학년, 반)
 ```
 ![image](https://github.com/trulyeven/trulyeven.github.io/assets/113951017/fdfc4bb9-9446-462f-897d-9d2a96c15fa3)
+
 `GROUPING SETS()`를 위처럼 사용하면 총계를 포함하지 않고 괄호 안에 포함된 열의 부분 집계만을 나타낸다. 
 > GROUPING SETS(열1)
+
+## 사용 예
 
 ```sql
 SELECT column1, column2, aggregate_function(column3)
