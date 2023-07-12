@@ -10,11 +10,12 @@ tags : [sql, sql query, rollup, cube, grouping sets, mySQL]
 > 사용할 테이블
 
 여기서는 mySQL을 사용했다
+
 아래 글을 읽어보면 아시겠지만 mySQL은 지원하지 않는 그룹핑 함수가 있어서 추가 작업이 필요하다
 
 ---
 
-# GROUP BY
+## GROUP BY
 
 ```sql
 SELECT 학년, 반, AVG(점수) AS 점수
@@ -28,7 +29,7 @@ GROUP BY 학년, 반;
 ---
 
 
-# ROLLUP
+## ROLLUP
 
 ```sql
 SELECT 학년, 반, AVG(점수) AS 점수
@@ -44,7 +45,7 @@ ROLLUP을 사용하면 학년의 평균, 총 평균이 추가된다
 ---
 
 
-# CUBE
+## CUBE
 
 ```sql
 SELECT 학년, 반, AVG(점수) AS 점수
@@ -65,9 +66,9 @@ CUBE을 사용하면 학년의 평균, 총 평균 그리고 학년이 상관없�
 ---
 
 
-# GROUPING SETS
+## GROUPING SETS
 
-## mysql
+### mysql
 
 ```sql
 SELECT 학년, 반, AVG(점수) AS 점수
@@ -85,9 +86,9 @@ HAVING 학년 IS NULL XOR 반 IS NULL;
 ![image](https://github.com/trulyeven/trulyeven.github.io/assets/113951017/fdfc4bb9-9446-462f-897d-9d2a96c15fa3)
 
 `GROUPING SETS()`를 위처럼 사용하면 총계를 포함하지 않고 괄호 안에 포함된 열의 부분 집계만을 나타낸다. 
-> GROUPING SETS(열1)
 
-## 사용 예
+
+### 사용 예
 
 ```sql
 SELECT column1, column2, aggregate_function(column3)
