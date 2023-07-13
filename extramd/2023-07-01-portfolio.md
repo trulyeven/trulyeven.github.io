@@ -76,7 +76,6 @@ Trulyeven@gmail.com<br>
     - [조원 역할 - CHURY](#조원-역할---chury)
     - [프로젝트 소개 - CHURY](#프로젝트-소개---chury)
     - [프로젝트 아쉬운 점 - CHURY](#프로젝트-아쉬운-점---chury)
-  - [](#)
   - [*WOCR*](#wocr)
     - [프로젝트 목적 - WOCR](#프로젝트-목적---wocr)
     - [개발 기간 - WOCR](#개발-기간---wocr)
@@ -248,6 +247,7 @@ Trulyeven@gmail.com<br>
 - 실제 책 내용은 보여주지 못하더라도 임의로 제작한 책 뷰어를 보여주려 했으나 잘 되지 않아 사이트 이동으로 대체한 점
 
 <br><br>
+
 ---
 
 ## *WOCR*
