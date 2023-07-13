@@ -71,13 +71,16 @@ Trulyeven@gmail.com<br>
 - [**4. project**](#4-project)
   - [*CHURY*](#chury)
     - [프로젝트 목적 - CHURY](#프로젝트-목적---chury)
-    - [🕰️ 개발 기간 - CHURY](#️-개발-기간---chury)
+    - [사용 기술 - CHURY](#사용-기술---chury)
+    - [개발 기간 - CHURY](#개발-기간---chury)
     - [조원 역할 - CHURY](#조원-역할---chury)
     - [프로젝트 소개 - CHURY](#프로젝트-소개---chury)
     - [프로젝트 아쉬운 점 - CHURY](#프로젝트-아쉬운-점---chury)
+  - [](#)
   - [*WOCR*](#wocr)
     - [프로젝트 목적 - WOCR](#프로젝트-목적---wocr)
-    - [🕰️ 개발 기간 - WOCR](#️-개발-기간---wocr)
+    - [개발 기간 - WOCR](#개발-기간---wocr)
+    - [사용 기술 - WOCR](#사용-기술---wocr)
     - [프로젝트 소개 - WOCR](#프로젝트-소개---wocr)
     - [프로젝트 아쉬운 점 - WOCR](#프로젝트-아쉬운-점---wocr)
 
@@ -138,7 +141,48 @@ Trulyeven@gmail.com<br>
 영상매체에 익숙해져 독서량이 감소해가는 현대인들에게 그들이 관심있는 영상 콘텐츠와 유사한 장르의 디지털 도서를
 추천해줌으로써 독서에 흥미를 느낄 수 있게 만들어 주자는 취지에서 개발하게 되었습니다.
 
-### 🕰️ 개발 기간 - CHURY
+### 사용 기술 - CHURY
+
+- <div>Frontend </div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/HTML-red?style=flat&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-blue?style=flat&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/jQuery-blue?style=flat&logo=jquery&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bootstrap-purple?style=flat&logo=Bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-blue?style=flat&logo=Java&logoColor=white"/>
+
+- <div>Backend </div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-darkgreen?style=flat&logo=Django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Springboot-green?style=flat&logo=Springboot&logoColor=white"/>
+
+- <div>Database </div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Mysql-blue?style=flat&logo=Mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-darkgreen?style=flat&logo=microsoftExcel&logoColor=white"/>
+
+- <div>VCS</div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Git-orange?style=flat&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-black?style=flat&logo=github&logoColor=white"/>
+
+- <div>Editor </div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/VS Code-blue?style=flat&logo=visual studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter Notebook-orange?style=flat&logo=jupyter notebook&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ IDEA-hotpink?style=flat&logo=intellij idea&logoColor=white"/>
+
+- <div>API </div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/The Movie Database-lightgreen?style=flat&logo=The Movie Database&logoColor=white"/>
+<img src="https://img.shields.io/badge/Naver-lightgreene?style=flat&logo=naver&logoColor=white"/>
+<img src="https://img.shields.io/badge/kakao-yellow?style=flat&logo=kakaotalk&logoColor=black"/>
+
+
+### 개발 기간 - CHURY
+🕰️
 - 1차 : 2022.10.19 ~ 2022.11.10
 - 2차 : 2023.01.09 ~ 2023.01.19
 - 3차 : 2023.03.13 ~ 2023.03.16
@@ -206,29 +250,61 @@ Trulyeven@gmail.com<br>
 - 실제 책 내용은 보여주지 못하더라도 임의로 제작한 책 뷰어를 보여주려 했으나 잘 되지 않아 사이트 이동으로 대체한 점
 
 <br><br>
-
-## *WOCR*
-
 ---
 
+## *WOCR*
 
 
 ### 프로젝트 목적 - WOCR
 
 요즘 사람들은 영상에서 많은 정보를 얻는다. 하지만 영상의 특성상 보여지는 정보가 필요한 반면 단순 글자만 나열해서 읽어주는 효율이 나쁜 정보 전달이 있다. 영상을 글로 변환하면 정보의 습득 속도가 더 빠르기 때문에 영상의 글을 모아주는 사이트를 만들고자 하였다.
 
-### 🕰️ 개발 기간 - WOCR
-- 2023.05.28 ~ 2023.07.01
+### 개발 기간 - WOCR
+- 🕰️ 2023.05.28 ~ 2023.07.01
+
+### 사용 기술 - WOCR
+
+<img src="https://img.shields.io/badge/Java-blue?style=flat&logo=Java&logoColor=white"/> 17
+<img src="https://img.shields.io/badge/Springboot-green?style=flat&logo=Springboot&logoColor=white"/> 3.11
+
+<img src="https://img.shields.io/badge/HTML-red?style=flat&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-blue?style=flat&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/jQuery-blue?style=flat&logo=jquery&logoColor=black"/> 3.7.0.min
+
+<img src="https://img.shields.io/badge/Git-orange?style=flat&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-black?style=flat&logo=github&logoColor=white"/>
+
+- API
+    + selenium-java:4.9.1  
+    + ashot:1.5.4  
+    + tess4j:5.7.0  
+    + google-cloud-translate:2.18.0  
+
 
 ### 프로젝트 소개 - WOCR
 
-처음 화면
+*처음 화면*
 
 ![chrome-capture-2023-6-11](https://github.com/trulyeven/trulyeven.github.io/assets/113951017/cb65eb4c-125e-48fa-b284-cd10e3834b2c)
+
+유튜브 주소를 입력하면 OCR을 수행하는 창으로 이동한다
+유효하지 않은 주소를 입력할 경우 경고메세지가 출력된다
+
+
+*OCR 실행 화면*
+
+![chrome-capture-2023-6-13](https://github.com/trulyeven/trulyeven.github.io/assets/113951017/0721962b-f14c-4189-bb20-3ecdeb45781e)
+
+- 가운데 유튜브 창이 나오고 startOCR 버튼을 누르게 되면 영상의 이미지를 인식해서 OCR이 실행된다
+- 실제로는 사용한 OCR이 이미지만 가능해서 selenium을 활용하여 screen샷을 찍고 그 결과를 OCR을 반복하여 출력하게 된다
+- stopOCR 버튼을 누르면 OCR 기능이 중지된다
 
 <br>
 
 ### 프로젝트 아쉬운 점 - WOCR
+- 사용한 OCR은 `tess OCR for java`을 사용했다. 무료 OCR이라 그런지 OCR을 수행할 때 글자에 색이 섞이거나 배경이 휘황찬란하면 인식률이 매우 떨어졌다
+- 전에 selenium을 사용할 때는 `python`을 사용했었는데 `java`로 selenium을 실행하니 속도가 `python`보다 느려서 빠르게 할 수 없어 아쉬웠다
 
 
 <br><br>
