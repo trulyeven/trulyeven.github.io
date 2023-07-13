@@ -162,8 +162,8 @@ Trulyeven@gmail.com<br>
 
 - VCS
 
-![](https://img.shields.io/badge/Git-orange?style=flat&logo=git&logoColor=white)
-![](https://img.shields.io/badge/github-black?style=flat&logo=github&logoColor=white)
+![git](https://img.shields.io/badge/Git-orange?style=flat&logo=git&logoColor=white)
+![github](https://img.shields.io/badge/github-black?style=flat&logo=github&logoColor=white)
 
 - Editor
 
