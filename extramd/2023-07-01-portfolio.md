@@ -130,8 +130,6 @@ Trulyeven@gmail.com<br>
 
 ---
 
-
-
 ## *CHURY*
 
 ![image](https://github.com/trulyeven/trulyeven.github.io/assets/113951017/a8d06948-fccf-4909-b4a0-716dbee4edf1){: width="800" height="auto" }
@@ -143,42 +141,36 @@ Trulyeven@gmail.com<br>
 
 ### 사용 기술 - CHURY
 
-- <div>Frontend </div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/HTML-red?style=flat&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-blue?style=flat&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/jQuery-blue?style=flat&logo=jquery&logoColor=black"/>
-<img src="https://img.shields.io/badge/Bootstrap-purple?style=flat&logo=Bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-blue?style=flat&logo=Java&logoColor=white"/>
+- Frontend 
+![html5](https://img.shields.io/badge/HTML-red?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-blue?style=flat&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-blue?style=flat&logo=jquery&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=flat&logo=Bootstrap&logoColor=white)
+![Java](https://img.shields.io/badge/Java-blue?style=flat&logo=Java&logoColor=white)
 
-- <div>Backend </div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-darkgreen?style=flat&logo=Django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Springboot-green?style=flat&logo=Springboot&logoColor=white"/>
+- Backend
+![python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-darkgreen?style=flat&logo=Django&logoColor=white)
+![Springboot](https://img.shields.io/badge/Springboot-green?style=flat&logo=Springboot&logoColor=white)
 
-- <div>Database </div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Mysql-blue?style=flat&logo=Mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-darkgreen?style=flat&logo=microsoftExcel&logoColor=white"/>
+- Database
+![MySQL](https://img.shields.io/badge/Mysql-blue?style=flat&logo=Mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-darkgreen?style=flat&logo=microsoftExcel&logoColor=white)
 
-- <div>VCS</div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Git-orange?style=flat&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/github-black?style=flat&logo=github&logoColor=white"/>
+- VCS
+![](https://img.shields.io/badge/Git-orange?style=flat&logo=git&logoColor=white)
+![](https://img.shields.io/badge/github-black?style=flat&logo=github&logoColor=white)
 
-- <div>Editor </div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/VS Code-blue?style=flat&logo=visual studio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter Notebook-orange?style=flat&logo=jupyter notebook&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ IDEA-hotpink?style=flat&logo=intellij idea&logoColor=white"/>
+- Editor
+![VScode](https://img.shields.io/badge/VSCode-blue?style=flat&logo=visualstudio&logoColor=white)
+![jupyternotebook](https://img.shields.io/badge/JupyterNotebook-orange?style=flat&logo=jupyter&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-hotpink?style=flat&logo=IntelliJIDEA&logoColor=white)
 
-- <div>API </div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/The Movie Database-lightgreen?style=flat&logo=The Movie Database&logoColor=white"/>
-<img src="https://img.shields.io/badge/Naver-lightgreene?style=flat&logo=naver&logoColor=white"/>
-<img src="https://img.shields.io/badge/kakao-yellow?style=flat&logo=kakaotalk&logoColor=black"/>
+- API
+![TMDB](https://img.shields.io/badge/TheMovieDatabase-lightgreen?style=flat&logo=TheMovieDatabase&logoColor=white)
+![Naver](https://img.shields.io/badge/Naver-lightgreene?style=flat&logo=naver&logoColor=white)
+![kakao](https://img.shields.io/badge/kakao-yellow?style=flat&logo=kakaotalk&logoColor=black)
 
 
 ### 개발 기간 - CHURY
@@ -254,6 +246,7 @@ Trulyeven@gmail.com<br>
 
 ## *WOCR*
 
+개인 프로젝트
 
 ### 프로젝트 목적 - WOCR
 
@@ -263,23 +256,22 @@ Trulyeven@gmail.com<br>
 - 🕰️ 2023.05.28 ~ 2023.07.01
 
 ### 사용 기술 - WOCR
+![Java](https://img.shields.io/badge/ＪJava-blue?style=flat&logo=java&logoColor=white) 17
+![Springboot](https://img.shields.io/badge/Springboot-green?style=flat&logo=Springboot&logoColor=white) 3.11
+![HTML](https://img.shields.io/badge/HTML-red?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blue?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=flat&logo=Bootstrap&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-blue?style=flat&logo=jquery&logoColor=black)
 
-<img src="https://img.shields.io/badge/Java-blue?style=flat&logo=Java&logoColor=white"/> 17
-<img src="https://img.shields.io/badge/Springboot-green?style=flat&logo=Springboot&logoColor=white"/> 3.11
+![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/github-black?style=flat&logo=github&logoColor=white)
 
-<img src="https://img.shields.io/badge/HTML-red?style=flat&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-blue?style=flat&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/jQuery-blue?style=flat&logo=jquery&logoColor=black"/> 3.7.0.min
-
-<img src="https://img.shields.io/badge/Git-orange?style=flat&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/github-black?style=flat&logo=github&logoColor=white"/>
-
-- API
-    + selenium-java:4.9.1  
+- API & etc
+    + ![selenium](https://img.shields.io/badge/selenium_java-black?style=flat&logo=selenium&logoColor=white) 4.9.1
+    + ![googletrans](https://img.shields.io/badge/selenium_java-black?style=flat&logo=googletranslate&logoColor=white) 2.18
     + ashot:1.5.4  
     + tess4j:5.7.0  
-    + google-cloud-translate:2.18.0  
 
 
 ### 프로젝트 소개 - WOCR
