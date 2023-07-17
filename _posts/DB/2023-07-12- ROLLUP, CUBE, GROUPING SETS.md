@@ -1,8 +1,8 @@
 ---
-title : "[SQL] ROLLUP, CUBE, GROUPING SETS"
+title : "[DB] ROLLUP, CUBE, GROUPING SETS"
 date : 2023-07-12 00:00:00 +0900 # +/-TTTT
-categories : [SQL]
-tags : [sql, sql query, rollup, cube, grouping sets, mySQL]
+categories : [database]
+tags : [database, sql, sql query, rollup, cube, grouping sets, mySQL]
 ---
 
 ![image](https://github.com/trulyeven/trulyeven.github.io/assets/113951017/a501aac9-a6ed-463f-a10a-9b5b641cbf78)
