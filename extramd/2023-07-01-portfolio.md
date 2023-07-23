@@ -87,6 +87,16 @@ Trulyeven@gmail.com<br>
 # **1. profile**
 
 ---
+[beakjoon](https://www.acmicpc.net/user/trulyeven)
+
+<button onclick="openInternalWindow()">내부 창 열기</button>
+
+<script>
+function openInternalWindow() {
+  // window.open() 메서드를 사용하여 내부 창 열기
+  window.open('새창페이지.html', '내부창이름', 'width=500,height=300');
+}
+</script>
 
 
 # **2. career**
