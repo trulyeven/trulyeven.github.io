@@ -65,9 +65,9 @@ Trulyeven@gmail.com<br>
 <a href="https://github.com/trulyeven/">github/trulyeven</a>
 </div>
 
-- [**1. profile**](#1-profile)
-- [**2. career**](#2-career)
-- [**3. skills**](#3-skills)
+- [**1. Who am I?**](#1-who-am-i)
+- [**2. Career**](#2-career)
+- [**3. Skills**](#3-skills)
 - [**4. project**](#4-project)
   - [*CHURY*](#chury)
     - [프로젝트 목적 - CHURY](#프로젝트-목적---chury)
@@ -84,47 +84,40 @@ Trulyeven@gmail.com<br>
     - [프로젝트 아쉬운 점 - WOCR](#프로젝트-아쉬운-점---wocr)
 
 
-# **1. profile**
+# **1. Who am I?**
 
 ---
 
-계속하고 있는 공부
+- 끊임없이 성장하려는 자세
 
-[![image](https://github.com/trulyeven/trulyeven.github.io/assets/113951017/b76c5085-48d4-455a-8c57-f4a7ab172f61)](https://www.acmicpc.net/)
+![image](https://github.com/trulyeven/trulyeven.github.io/assets/113951017/b76c5085-48d4-455a-8c57-f4a7ab172f61){: width="400" height="auto" }
 
-<button onclick="openInternalWindow()">페이지 열기</button>
-<div id="content">
-  <!-- 여기에 웹 페이지가 표시될 iframe을 삽입합니다. -->
-</div>
+<button onclick="openInternalWindow()">내 페이지 열기</button>
 
 <script>
 function openInternalWindow() {
-  var webPageURL = 'https://www.acmicpc.net/user/trulyeven';
-  
-  // iframe 생성
-  var iframe = document.createElement('iframe');
-  iframe.src = webPageURL;
-  iframe.style.width = '100%';
-  iframe.style.height = '500px';
-  
-  // 내부 태그에 iframe 추가
-  var contentContainer = document.getElementById('content');
-  contentContainer.innerHTML = '';
-  contentContainer.appendChild(iframe);
+  // window.open() 메서드를 사용하여 내부 창 열기
+  window.open('https://www.acmicpc.net/user/trulyeven', 'acmicpc.net/user/trulyeven', 'width=500,height=300');
 }
 </script>
 
+- 계속해서 배우려는 의지
+    + 개발자 블로그에 배운 내용 작성
 
-# **2. career**
+<br><br>
+
+# **2. Career**
 
 ---
 
 ![image](https://github.com/trulyeven/trulyeven.github.io/assets/113951017/838ad40e-c9eb-44bc-a16b-5a54c9689efc){: width="800" height="auto" }
-
+- 전남대학교 신소재공학부 졸업
+- 티디엠 티타늄 가공 기반 의료용품 제조, 실습
+- 소프트엔지니어 소사이어티 빅데이터 융합서비스엔지니어 과정 수료
 
 <br><br>
 
-# **3. skills**
+# **3. Skills**
 
 ---
 
