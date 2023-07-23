@@ -87,17 +87,19 @@ Trulyeven@gmail.com<br>
 # **1. profile**
 
 ---
-[beakjoon](https://www.acmicpc.net/user/trulyeven)
 
+계속하고 있는 공부
+
+[![image](https://github.com/trulyeven/trulyeven.github.io/assets/113951017/b76c5085-48d4-455a-8c57-f4a7ab172f61)](https://www.acmicpc.net/)
+
+<button onclick="openInternalWindow()">페이지 열기</button>
 <div id="content">
   <!-- 여기에 웹 페이지가 표시될 iframe을 삽입합니다. -->
 </div>
 
-<button onclick="openInternalWindow()">내부 창 열기</button>
-
 <script>
 function openInternalWindow() {
-  var webPageURL = 'https://www.naver.com';
+  var webPageURL = 'https://www.acmicpc.net/user/trulyeven';
   
   // iframe 생성
   var iframe = document.createElement('iframe');
