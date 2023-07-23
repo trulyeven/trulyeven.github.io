@@ -89,15 +89,29 @@ Trulyeven@gmail.com<br>
 ---
 [beakjoon](https://www.acmicpc.net/user/trulyeven)
 
-<button onclick="openInternalWindow()">내부 창 열기</button>
+<div id="content">
+  <!-- 여기에 웹 페이지가 표시될 iframe을 삽입합니다. -->
+  <iframe></iframe>
+</div>
+
+<button onclick="showWebPage()">www.naver.com 띄우기</button>
 
 <script>
-function openInternalWindow() {
-  // window.open() 메서드를 사용하여 내부 창 열기
-  window.open('새창페이지.html', '내부창이름', 'width=500,height=300');
+function showWebPage() {
+  // 새로운 웹 페이지 URL
+  var webPageURL = 'https://www.naver.com';
+  
+  // iframe 생성
+  var iframe = document.createElement('iframe');
+  iframe.src = webPageURL;
+  iframe.style.width = '100%';
+  iframe.style.height = '500px';
+  
+  // 내부 태그에 iframe 추가
+  var contentContainer = document.getElementById('content');
+  contentContainer.innerHTML = '';
+  contentContainer.appendChild(iframe);
 }
-</script>
-
 
 # **2. career**
 
