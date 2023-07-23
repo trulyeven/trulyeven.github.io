@@ -91,14 +91,12 @@ Trulyeven@gmail.com<br>
 
 <div id="content">
   <!-- 여기에 웹 페이지가 표시될 iframe을 삽입합니다. -->
-  <iframe></iframe>
 </div>
 
-<button onclick="showWebPage()">www.naver.com 띄우기</button>
+<button onclick="openInternalWindow()">내부 창 열기</button>
 
 <script>
-function showWebPage() {
-  // 새로운 웹 페이지 URL
+function openInternalWindow() {
   var webPageURL = 'https://www.naver.com';
   
   // iframe 생성
@@ -112,6 +110,8 @@ function showWebPage() {
   contentContainer.innerHTML = '';
   contentContainer.appendChild(iframe);
 }
+</script>
+
 
 # **2. career**
 
