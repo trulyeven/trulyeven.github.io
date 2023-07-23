@@ -90,14 +90,12 @@ Trulyeven@gmail.com<br>
 
 - 끊임없이 성장하려는 자세
 
-![image](https://github.com/trulyeven/trulyeven.github.io/assets/113951017/b76c5085-48d4-455a-8c57-f4a7ab172f61){: width="400" height="auto" }
-
-<button onclick="openInternalWindow()">내 페이지 열기</button>
+![image](https://github.com/trulyeven/trulyeven.github.io/assets/113951017/b76c5085-48d4-455a-8c57-f4a7ab172f61){: width="400" height="auto" } <button onclick="openInternalWindow()">내 페이지 열기</button>
 
 <script>
 function openInternalWindow() {
   // window.open() 메서드를 사용하여 내부 창 열기
-  window.open('https://www.acmicpc.net/user/trulyeven', 'acmicpc.net/user/trulyeven', 'width=500,height=300');
+  window.open('https://www.acmicpc.net/user/trulyeven', 'acmicpc.net/user/trulyeven', 'width=800,height=1000');
 }
 </script>
 
@@ -110,7 +108,6 @@ function openInternalWindow() {
 
 ---
 
-![image](https://github.com/trulyeven/trulyeven.github.io/assets/113951017/838ad40e-c9eb-44bc-a16b-5a54c9689efc){: width="800" height="auto" }
 - 전남대학교 신소재공학부 졸업
 - 티디엠 티타늄 가공 기반 의료용품 제조, 실습
 - 소프트엔지니어 소사이어티 빅데이터 융합서비스엔지니어 과정 수료
