@@ -10,7 +10,7 @@ order: 4
 <object data="https://raw.githubusercontent.com/trulyeven/trulyeven.github.io/main/_posts/info/2023-07-01-portfolio.md" width="100%" height="600"></object>
 
 
-[test](/extramd/index.html)
+[test](/extrahtml/portfolio.html)
 
 
 > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
