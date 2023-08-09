@@ -98,7 +98,7 @@
   /* archives */
   --timeline-node-bg: rgb(150, 152, 156);
   --timeline-color: rgb(63, 65, 68);
-  --timeline-year-dot-color: var(--timeline-color);
+  --timeline-year-dot-color: rgb(100, 200, 100); // var(--timeline-color);
 
   .light {
     display: none;
