@@ -11,8 +11,7 @@ button{
     letter-spacing: 4px;
     overflow: hidden;
     margin-right: 50px;
-	opacity: 0;
-   
+	background-color: lightgray;
 }
 button:hover{
     background: #03e9f4;
