@@ -113,7 +113,14 @@ function openInternalWindow() {
 - 계속해서 배우려는 의지
     + 개발자 블로그에 배운 내용 작성
 
-[블로그 링크](https://trulyeven.github.io/)
+<button onclick="openInternalWindow()">
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+    <a href="https://trulyeven.github.io/">블로그 링크</a>
+</button>
+
 
 <br><br>
 
