@@ -101,7 +101,7 @@ function openInternalWindow() {
 
 - 계속해서 배우려는 의지
     + 개발자 블로그에 배운 내용 작성
-
+    + [블로그 가기](https://trulyeven.github.io/)
 <br><br>
 
 # **2. Career**
@@ -324,4 +324,5 @@ function openInternalWindow() {
 
 <br><br>
 
+![image](/extrahtml/src/ty.svg)
 
