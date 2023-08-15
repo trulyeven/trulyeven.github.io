@@ -85,6 +85,8 @@ Trulyeven@gmail.com<br>
     - [4.2.5. 프로젝트 아쉬운 점 - WOCR](#425-프로젝트-아쉬운-점---wocr)
 
 
+<br><br><br><br>
+
 # 1. **Who am I?**
 
 ---
@@ -308,7 +310,7 @@ function openInternalWindow() {
 
 *처음 화면*
 
-![chrome-capture-2023-6-11](https://github.com/trulyeven/trulyeven.github.io/assets/113951017/cb65eb4c-125e-48fa-b284-cd10e3834b2c)
+![chrome-capture-2023-6-11](https://github.com/trulyeven/trulyeven.github.io/assets/113951017/cb65eb4c-125e-48fa-b284-cd10e3834b2c){: width="800" height="auto" }
 
 유튜브 주소를 입력하면 OCR을 수행하는 창으로 이동한다
 유효하지 않은 주소를 입력할 경우 경고메세지가 출력된다
@@ -316,7 +318,7 @@ function openInternalWindow() {
 
 *OCR 실행 화면*
 
-![chrome-capture-2023-6-13](https://github.com/trulyeven/trulyeven.github.io/assets/113951017/0721962b-f14c-4189-bb20-3ecdeb45781e)
+![chrome-capture-2023-6-13](https://github.com/trulyeven/trulyeven.github.io/assets/113951017/0721962b-f14c-4189-bb20-3ecdeb45781e){: width="800" height="auto" }
 
 - 가운데 유튜브 창이 나오고 startOCR 버튼을 누르게 되면 영상의 이미지를 인식해서 OCR이 실행된다
 - 실제로는 사용한 OCR이 이미지만 가능해서 selenium을 활용하여 screen샷을 찍고 그 결과를 OCR을 반복하여 출력하게 된다
@@ -331,5 +333,5 @@ function openInternalWindow() {
 
 <br><br>
 
-![image](/extrahtml/src/ty.svg){: width="600" height="auto" }
+![image](/extrahtml/src/TY.svg){: width="600" height="auto" }
 
