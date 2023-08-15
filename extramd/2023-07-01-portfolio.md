@@ -13,6 +13,7 @@ permalink: /portfolio/
     crossorigin="anonymous"
     referrerpolicy="no-referrer"
     />
+    <link rel="stylesheet" href="extrahtml/src/portfolio.css">
     <style>
     @import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300;400;700&display=swap');
     * {
@@ -90,7 +91,9 @@ Trulyeven@gmail.com<br>
 
 - 끊임없이 성장하려는 자세
 
-![image](https://github.com/trulyeven/trulyeven.github.io/assets/113951017/b76c5085-48d4-455a-8c57-f4a7ab172f61){: width="400" height="auto" } <button onclick="openInternalWindow()">내 페이지 열기</button>
+![image](https://github.com/trulyeven/trulyeven.github.io/assets/113951017/b76c5085-48d4-455a-8c57-f4a7ab172f61){: width="400" height="auto" } 
+
+<button class="btn green mini" onclick="openInternalWindow()">내 페이지 열기</button>
 
 <script>
 function openInternalWindow() {
@@ -98,6 +101,14 @@ function openInternalWindow() {
   window.open('https://www.acmicpc.net/user/trulyeven', 'acmicpc.net/user/trulyeven', 'width=800,height=1000');
 }
 </script>
+
+<a href="#">
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+    Neon button
+</a>
 
 - 계속해서 배우려는 의지
     + 개발자 블로그에 배운 내용 작성
