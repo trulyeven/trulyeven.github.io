@@ -324,5 +324,5 @@ function openInternalWindow() {
 
 <br><br>
 
-![image](/extrahtml/src/ty.svg)
+![image](/extrahtml/src/ty.svg){: width="600" height="auto" }
 
