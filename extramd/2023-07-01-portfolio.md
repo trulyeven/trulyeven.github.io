@@ -13,7 +13,7 @@ permalink: /portfolio/
     crossorigin="anonymous"
     referrerpolicy="no-referrer"
     />
-    <link rel="stylesheet" href="extrahtml/src/portfolio.css">
+    <link rel="stylesheet" href="/extrahtml/src/portfolio.css">
     <style>
     @import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300;400;700&display=swap');
     * {
