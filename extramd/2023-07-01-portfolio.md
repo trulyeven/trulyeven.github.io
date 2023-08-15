@@ -93,7 +93,13 @@ Trulyeven@gmail.com<br>
 
 ![image](https://github.com/trulyeven/trulyeven.github.io/assets/113951017/b76c5085-48d4-455a-8c57-f4a7ab172f61){: width="400" height="auto" } 
 
-<button class="btn green mini" onclick="openInternalWindow()">내 페이지 열기</button>
+<button onclick="openInternalWindow()">
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+    내 페이지 열기
+</button>
 
 <script>
 function openInternalWindow() {
@@ -101,14 +107,6 @@ function openInternalWindow() {
   window.open('https://www.acmicpc.net/user/trulyeven', 'acmicpc.net/user/trulyeven', 'width=800,height=1000');
 }
 </script>
-
-<a href="#">
-    <span></span>
-    <span></span>
-    <span></span>
-    <span></span>
-    Neon button
-</a>
 
 - 계속해서 배우려는 의지
     + 개발자 블로그에 배운 내용 작성
