@@ -2,8 +2,6 @@
 button{
     position: relative;
     display: inline-block;
-    padding: 25px 30px;
-    margin: 40px 0;
     color: #03e9f4;
     text-decoration: none;
     text-transform: uppercase;
@@ -12,6 +10,8 @@ button{
     overflow: hidden;
     margin-right: 50px;
 	background-color: transparent;
+	size: 50px;
+	border: none;
 }
 button:hover{
     background: #03e9f4;
