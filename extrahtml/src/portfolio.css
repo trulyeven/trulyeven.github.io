@@ -11,6 +11,7 @@ button{
     letter-spacing: 4px;
     overflow: hidden;
     margin-right: 50px;
+	opacity: 0;
    
 }
 button:hover{

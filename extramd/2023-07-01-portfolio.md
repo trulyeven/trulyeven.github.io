@@ -94,10 +94,6 @@ Trulyeven@gmail.com<br>
 ![image](https://github.com/trulyeven/trulyeven.github.io/assets/113951017/b76c5085-48d4-455a-8c57-f4a7ab172f61){: width="400" height="auto" } 
 
 <button onclick="openInternalWindow()">
-    <span></span>
-    <span></span>
-    <span></span>
-    <span></span>
     내 페이지 열기
 </button>
 
@@ -110,7 +106,9 @@ function openInternalWindow() {
 
 - 계속해서 배우려는 의지
     + 개발자 블로그에 배운 내용 작성
-    + [블로그 가기](https://trulyeven.github.io/)
+
+[블로그 링크](https://trulyeven.github.io/)
+
 <br><br>
 
 # 2. **Career**
