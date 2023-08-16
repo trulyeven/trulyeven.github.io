@@ -132,6 +132,17 @@ function openInternalWindow() {
 - 티디엠 티타늄 가공 기반 의료용품 제조, 실습
 - 소프트엔지니어 소사이어티 빅데이터 융합서비스엔지니어 과정 수료
 
+<details>
+<summary>과정 내용 자세히 보기</summary>
+<div markdown="1">
+
+![image](https://github.com/trulyeven/trulyeven.github.io/assets/113951017/c4b8c481-0b5f-4dbf-8acd-982eddc8fad8)
+![image](https://github.com/trulyeven/trulyeven.github.io/assets/113951017/7778b421-034c-463e-a0cd-16ff7834b192)
+![image](https://github.com/trulyeven/trulyeven.github.io/assets/113951017/60cefb7d-63ab-47f5-9c60-b1de066fc4a6)
+
+</div>
+</details>
+
 <br><br>
 
 # 3. **Skills**
@@ -174,6 +185,8 @@ function openInternalWindow() {
 영상매체에 익숙해져 독서량이 감소해가는 현대인들에게 그들이 관심있는 영상 콘텐츠와 유사한 장르의 디지털 도서를
 추천해줌으로써 독서에 흥미를 느낄 수 있게 만들어 주자는 취지에서 개발하게 되었습니다.
 
+<br>
+
 ### 4.1.2. 사용 기술 - CHURY
 
 - Frontend 
@@ -213,6 +226,7 @@ function openInternalWindow() {
 ![Naver](https://img.shields.io/badge/Naver-lightgreene?style=flat&logo=naver&logoColor=white)
 ![kakao](https://img.shields.io/badge/kakao-yellow?style=flat&logo=kakaotalk&logoColor=black)
 
+<br>
 
 ### 4.1.3. 개발 기간 - CHURY
 🕰️
@@ -221,11 +235,14 @@ function openInternalWindow() {
 - 3차 : 2023.03.13 ~ 2023.03.16
 - 총 약 30일
 
+<br>
 
 ### 4.1.4. 조원 역할 - CHURY
 
 ![image](https://github.com/trulyeven/trulyeven.github.io/assets/113951017/156a356d-55fb-4dba-abdd-fa7b24d6ab36){: width="800" height="auto" }
 ![image](https://github.com/trulyeven/trulyeven.github.io/assets/113951017/10b78924-e00b-4dce-97e5-cde0a35175af){: width="800" height="auto" }
+
+<br>
 
 ### 4.1.5. 프로젝트 소개 - CHURY
 
@@ -294,8 +311,12 @@ function openInternalWindow() {
 
 요즘 사람들은 영상에서 많은 정보를 얻는다. 하지만 영상의 특성상 보여지는 정보가 필요한 반면 단순 글자만 나열해서 읽어주는 효율이 나쁜 정보 전달이 있다. 영상을 글로 변환하면 정보의 습득 속도가 더 빠르기 때문에 영상의 글을 모아주는 사이트를 만들고자 하였다.
 
+<br>
+
 ### 4.2.2. 개발 기간 - WOCR
 - 🕰️ 2023.05.28 ~ 2023.07.01
+
+<br>
 
 ### 4.2.3. 사용 기술 - WOCR
 
@@ -317,6 +338,8 @@ function openInternalWindow() {
 ![googletrans](https://img.shields.io/badge/googletrans-black?style=flat&logo=googletranslate&logoColor=white)
 
 
+<br>
+
 ### 4.2.4. 프로젝트 소개 - WOCR
 
 *처음 화면*
@@ -335,7 +358,8 @@ function openInternalWindow() {
 - 실제로는 사용한 OCR이 이미지만 가능해서 selenium을 활용하여 screen샷을 찍고 그 결과를 OCR을 반복하여 출력하게 된다
 - stopOCR 버튼을 누르면 OCR 기능이 중지된다
 
-<br>
+<br><br>
+
 
 ### 4.2.5. 프로젝트 아쉬운 점 - WOCR
 - 사용한 OCR은 `tess OCR for java`을 사용했다. 무료 OCR이라 그런지 OCR을 수행할 때 글자에 색이 섞이거나 배경이 휘황찬란하면 인식률이 매우 떨어졌다
