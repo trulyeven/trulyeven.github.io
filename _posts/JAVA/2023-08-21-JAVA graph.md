@@ -5,8 +5,8 @@ categories : [JAVA]
 tags : [java, graph, dfs, bfs] #소문자만 가능
 mermaid : true
 image:                         # 미리보기 이미지
-  path: https://github.com/trulyeven/trulyeven.github.io/assets/113951017/23ed7c0b-fd21-43cf-b47a-9be52e527899
-  width: 1000                  # in pixels
+  path: https://github.com/trulyeven/trulyeven.github.io/assets/113951017/a09a85fb-dee3-4b54-8c7e-4d2dc72677c8
+  width: 400                  # in pixels
   height: 400                  # in pixels
   alt: graph
 ---
