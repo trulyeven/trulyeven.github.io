@@ -7,7 +7,7 @@ math : true
 # mermaid : false
 image:                         # 미리보기 이미지
   path: https://upload.wikimedia.org/wikipedia/commons/e/e3/Android_Studio_Icon_%282014-2019%29.svg
-  width: 1000                  # in pixels
+  width: 700                  # in pixels
   height: 400                  # in pixels
   alt: Android Studio
 ---

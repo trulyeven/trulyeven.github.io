@@ -7,7 +7,7 @@ math : true
 # mermaid : false
 image:                         # 미리보기 이미지
   path: https://github.com/trulyeven/trulyeven.github.io/assets/113951017/f75671d4-afc0-4eb0-850d-4e1d5d76f2cb
-  width: 1000                  # in pixels
+  width: 700                  # in pixels
   height: 400                  # in pixels
   alt: kotlin
 ---
