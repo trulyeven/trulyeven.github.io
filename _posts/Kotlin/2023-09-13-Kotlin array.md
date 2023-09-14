@@ -21,7 +21,6 @@ image:                         # 미리보기 이미지
 > kotlin v1.9.10 으로 작성됨
 
 
-
 Collection에는 List, Map, Set 등이 있다
 Collection은 크게 Mutable과 immutable으로 구분된다
 
@@ -57,8 +56,6 @@ val intArray: = (0..3).toList().toTypedArray()  // 0,1,2,3
 ```
 
 코틀린에서는 arrayOf() 를 사용해 타입과 크기를 생략 가능하다
-
-`<Any>`로 여러 자료형을 넣을 수 있다(생략가능)
 
 IntRange는 바로 Array로 변환하지 못하므로 List로 변환 후에 Array로 변환시켜야 한다
 
@@ -115,6 +112,7 @@ println(arr.joinToString("*"))   // 100*200*300*Hi
 ```
 
 .plus()
+
 ```kotlin
 var array1 = arrayOf(1, 2, 3)
 array1 = array1.plus(4)  // 1 2 3 4
@@ -150,6 +148,7 @@ val lst4 = MutableList<Int>(3, {i -> i})
 수정,삭제 메소드는 mutableList만 가능하다
 
 .add()
+
 ```kotlin
 val mlst = mutableListOf<Int>(0, 1, 2)
 val lst = listOf<Int>(7, 8, 9)
@@ -164,6 +163,7 @@ mlst.addAll(2, lst) // 0 1 7 8 9 2
 ```
 
 .remove()
+
 ```kotlin
 val mlst = mutableListOf<Int>(1 ,2 ,3) // 1 2 3
 val lst = listOf<Int>(2, 3, 4)         // 2 3 4
@@ -174,12 +174,14 @@ mlst.removeAt(0) // 2 3    1번 인덱스 제거
 mlst.removeAll(lst)  // 1
 
 lst.clear()  // 리스트 비우기
+
 ```
 remove는 해당 값을 찾아 삭제하고 true를 반환한다
 
 해당하는 값이 없으면 false를 반환한다
 
 .retainAll()
+
 ```kotlin
 val mlst = mutableListOf<Int>(1 ,2 ,3) // 1 2 3
 val lst = listOf<Int>(2, 3, 4)         // 2 3 4
@@ -188,6 +190,7 @@ mlst.retainAll(lst)  // 2 3
 ```
 
 두 리스트의 공집합
+
 ```kotlin
 val mlst = mutableListOf<Int>(1 ,2 ,3, 4)
 
@@ -218,4 +221,3 @@ val arrayList = arrayListOf(1, 2, 3)  // 1 2 3
 [kotlin collections 공식문서](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/)
 
 ---
-
