@@ -5,6 +5,7 @@ categories : [kotlin]
 tags : [kotlin, array, list] #소문자만 가능
 math : true
 # mermaid : false
+deploy: false
 image:                         # 미리보기 이미지
   path: https://i.namu.wiki/i/SyEg6ArvrsKDsWVBweN4PPxtoxFIaboI9_zceYTL5FcGUBms0nDyfYldaRhUG_ToIQ6MftttN9Pku_-T4FgLcXAHFj8I_9rEIL55fOMCYe9R47MwtqjKocwe8XT9DqOMT4tceiUC2JzvYNrdtBBCRA.svg
   width: 1000                  # in pixels
