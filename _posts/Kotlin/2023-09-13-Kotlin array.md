@@ -5,7 +5,6 @@ categories : [kotlin]
 tags : [kotlin, array, list] #소문자만 가능
 math : true
 # mermaid : false
-deploy: false
 image:                         # 미리보기 이미지
   path: https://i.namu.wiki/i/SyEg6ArvrsKDsWVBweN4PPxtoxFIaboI9_zceYTL5FcGUBms0nDyfYldaRhUG_ToIQ6MftttN9Pku_-T4FgLcXAHFj8I_9rEIL55fOMCYe9R47MwtqjKocwe8XT9DqOMT4tceiUC2JzvYNrdtBBCRA.svg
   width: 1000                  # in pixels
@@ -40,8 +39,9 @@ Array의 경우에는 선언 당시에 배열의 크기가 정해지고 조절�
 
 ### 1.1. array 생성
 
-> var 배열이름: Array<배열 값의 타입> = arrayOf<배열 값의 타입>(값, ...)
-> var 배열이름: Array<배열 값의 타입> = Array<배열 값의 타입>(배열의 크기) { init -> T }
+> var 배열이름: Array\<배열 값의 타입\> = arrayOf\<배열 값의 타입\>(값, ...)
+> 
+> var 배열이름: Array\<배열 값의 타입\> = Array\<배열 값의 타입\>(배열의 크기) { init -> T }
 
 선언 때 크기를 지정 후, 배열의 크기를 변경 할 수 없다
 
@@ -101,6 +101,8 @@ arr.indexOf(100)  // 0
 // 배열.contentEquals(배열) : 배열끼리 비교
 arr.contentEquals(arr)  // true
 ```
+
+---
 
 ```kotlin
 // 배열 출력
