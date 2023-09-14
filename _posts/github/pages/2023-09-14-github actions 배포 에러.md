@@ -6,7 +6,7 @@ tags : [github, actions, error] #소문자만 가능
 math : true
 # mermaid : false
 image:                         # 미리보기 이미지
-  path: https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Factions&psig=AOvVaw2I-IPJkJATwwtnc4LvMduw&ust=1694777064709000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNC5q9n-qYEDFQAAAAAdAAAAABAE
+  path: https://github.com/trulyeven/trulyeven.github.io/assets/113951017/95de9e69-d9d8-44c7-9426-0502de27a921
   width: 1000                  # in pixels
   height: 400                  # in pixels
   alt: github actions
