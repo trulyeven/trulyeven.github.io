@@ -37,7 +37,7 @@ Array는 메모리에서 연속적인 공간을 차지하는 정적인 자료구
 Array의 경우에는 선언 당시에 배열의 크기가 정해지고 조절이 불가능하다
 
 
-### array 생성
+### 1.1. array 생성
 
 > var 배열이름: Array<배열 값의 타입> = arrayOf<배열 값의 타입>(값, ...)
 > var 배열이름: Array<배열 값의 타입> = Array<배열 값의 타입>(배열의 크기) { init -> T }
@@ -61,7 +61,7 @@ IntRange는 바로 Array로 변환하지 못하므로 List로 변환 후에 Arra
 
 ---
 
-#### emptyArray()
+#### 1.1.1. emptyArray()
 
 ```kotlin
 val emptyArray = emptyArray<Int>()
@@ -71,7 +71,7 @@ val emptyArray = emptyArray<Int>()
 
 ---
 
-#### arrayOfNulls()
+#### 1.1.2. arrayOfNulls()
 
 ```kotlin
 var nullArr = arrayOfNulls<Int>(3) // null,null,null
@@ -83,7 +83,7 @@ Array의 크기 값(size)을 지정하면 그만큼 null이 들어간 배열을 
 
 ---
 
-### array 접근 및 함수
+### 1.2. array 접근 및 함수
 
 ```kotlin
 var arr = arrayOf(100, 200, 300, "Hi")
@@ -103,6 +103,7 @@ arr.contentEquals(arr)  // true
 
 ```kotlin
 // 배열 출력
+
 // forEach {}
 arr.forEach { print({ it }) }  // 100200300Hi
 // 배열.contentToString()
@@ -111,7 +112,7 @@ println(arr.contentToString())   // [100, 200, 300, Hi]
 println(arr.joinToString("*"))   // 100*200*300*Hi
 ```
 
-.plus()
+plus() : 값을 추가해 새 배열 생성
 
 ```kotlin
 var array1 = arrayOf(1, 2, 3)
@@ -122,7 +123,7 @@ array1 = array1.plus(4)  // 1 2 3 4
 
 <br><br>
 
-## list
+## 2. list
 
 코틀린의 List는 기본적으로 immutable으로 읽기 전용으로 배열안의 내용을 수정할 수 없다
 
@@ -130,7 +131,7 @@ array1 = array1.plus(4)  // 1 2 3 4
 
 val로 초기화할 경우 재할당은 불가능하지만 추가,삭제 등은 가능하다
 
-### list 생성
+### 2.1. list 생성
 
 ```kotlin
 val lst1 = listOf(0, 1, 2)
@@ -143,11 +144,11 @@ val lst4 = MutableList<Int>(3, {i -> i})
 
 ---
 
-### list 접근 및 함수
+### 2.2. list 접근 및 함수
 
 수정,삭제 메소드는 mutableList만 가능하다
 
-.add()
+add()
 
 ```kotlin
 val mlst = mutableListOf<Int>(0, 1, 2)
@@ -162,7 +163,7 @@ mlst.addAll(lst)   // 0 1 2 7 8 9
 mlst.addAll(2, lst) // 0 1 7 8 9 2
 ```
 
-.remove()
+remove()
 
 ```kotlin
 val mlst = mutableListOf<Int>(1 ,2 ,3) // 1 2 3
@@ -174,13 +175,13 @@ mlst.removeAt(0) // 2 3    1번 인덱스 제거
 mlst.removeAll(lst)  // 1
 
 lst.clear()  // 리스트 비우기
-
 ```
+
 remove는 해당 값을 찾아 삭제하고 true를 반환한다
 
 해당하는 값이 없으면 false를 반환한다
 
-.retainAll()
+retainAll()
 
 ```kotlin
 val mlst = mutableListOf<Int>(1 ,2 ,3) // 1 2 3
@@ -201,7 +202,7 @@ mlst.subList(1, 3)  // 2 3
 
 <br><br>
 
-## arrayList
+## 3. arrayList
 
 배열의 크기가 유동적이고 값을 수정할 수 있다
 
@@ -209,7 +210,7 @@ mlst.subList(1, 3)  // 2 3
 
 따라서 arrayList와 mutableList 둘 다 작동 원리는 같다
 
-### arrayList 생성
+### 3.1. arrayList 생성
 
 ```kotlin
 val arrayList = arrayListOf(1, 2, 3)  // 1 2 3
