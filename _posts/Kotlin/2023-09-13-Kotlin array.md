@@ -219,7 +219,21 @@ mlst.subList(1, 3)  // 2 3
 val arrayList = arrayListOf(1, 2, 3)  // 1 2 3
 ```
 
+---
 
+### 3.1. arrayList 인덱싱, 슬라이싱
+
+```kotlin
+val arr = arrayListOf("가","나","다","라")
+
+// 인덱싱
+arr[0]  // 가
+arr[3]  // 라
+
+// 슬라이싱
+// - 첫번째 인덱스부터 두번째 인덱스 전까지
+arr.subList(1, 3)  // [나, 다]
+```
 ---
 
 [kotlin collections 공식문서](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/)
