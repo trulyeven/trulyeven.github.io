@@ -221,7 +221,7 @@ val arrayList = arrayListOf(1, 2, 3)  // 1 2 3
 
 ---
 
-### 3.1. arrayList 인덱싱, 슬라이싱
+### 3.2. arrayList 인덱싱, 슬라이싱
 
 ```kotlin
 val arr = arrayListOf("가","나","다","라")
