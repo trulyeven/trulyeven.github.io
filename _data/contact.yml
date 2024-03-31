@@ -8,7 +8,7 @@
 
 - type: discord
   icon: "fab fa-discord"
-  url: 'https://discord.gg/d9XnahrNzA'
+  # url: 'https://discord.gg/d9XnahrNzA'
 
 - type: email
   icon: "fas fa-envelope"
